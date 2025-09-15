@@ -13,6 +13,8 @@ Features: Transaction details (Time, Amount, anonymized features V1–V28)
 
 Target: 0 = Genuine, 1 = Fraud
 
+Link = https://drive.google.com/file/d/10jcLXpAzztriB_zVeMjl_yMTRUNWiRTx/view?usp=sharing
+
 ⚙️ Project Workflow
 
 Data Preprocessing
